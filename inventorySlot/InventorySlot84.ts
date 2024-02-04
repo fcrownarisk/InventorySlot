@@ -1,6 +1,3 @@
-import "symbol/multiply.ts"
-import "enum/enum1234567.ts"
-import "/"
 type InventorySlot = (x:string, y:string, z:string, t:string) => void;
 function InventorySlot1
 (x1:string, y1:string, z1:string, t5:string){
